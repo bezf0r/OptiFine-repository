@@ -1,1598 +1,2396 @@
 [
   {
     "filename": "OptiFine_1.13.2_HD_U_E7.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.2_HD_U_E6.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "E6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.2_HD_U_E5.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "E5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.2_HD_U_E4.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "E4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.1_HD_U_E4.jar",
-    "mcversion": "1.13.1"
+    "mcversion": "1.13.1",
+    "patch": "E4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.1_HD_U_E3.jar",
-    "mcversion": "1.13.1"
+    "mcversion": "1.13.1",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13_HD_U_E4.jar",
-    "mcversion": "1.13"
+    "mcversion": "1.13",
+    "patch": "E4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_E3.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_E2.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "E2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_E1.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "E1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_D3.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "D3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_D2.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "D2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_D1.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "D1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_C9.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "C9",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_C8.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "C8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_C7.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "C7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_C6.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "C6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_C5.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "C5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.1_HD_U_C7.jar",
-    "mcversion": "1.12.1"
+    "mcversion": "1.12.1",
+    "patch": "C7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.1_HD_U_C6.jar",
-    "mcversion": "1.12.1"
+    "mcversion": "1.12.1",
+    "patch": "C6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.1_HD_U_C5.jar",
-    "mcversion": "1.12.1"
+    "mcversion": "1.12.1",
+    "patch": "C5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_C7.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "C7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_C5.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "C5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_C4.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "C4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_C3.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "C3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_C2.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "C2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_C7.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "C7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_C3.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "C3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_C2.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "C2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_C1.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "C1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_B9.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "B9",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_B8.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "B8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_B7.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "B7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_B6.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "B6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_B5.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "B5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_C7.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "C7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_C3.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "C3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B8.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B8",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.14_HD_U_F1_pre6.jar",
-    "mcversion": "1.14"
+    "mcversion": "1.14",
+    "patch": "pre6",
+    "type": "HD_U_F1"
   },
   {
     "filename": "preview_OptiFine_1.14.2_HD_U_F1_pre15.jar",
-    "mcversion": "1.14.2"
+    "mcversion": "1.14.2",
+    "patch": "pre15",
+    "type": "HD_U_F1"
   },
   {
     "filename": "OptiFine_1.14.3_HD_U_F1.jar",
-    "mcversion": "1.14.3"
+    "mcversion": "1.14.3",
+    "patch": "F1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.14.3_HD_U_F2.jar",
-    "mcversion": "1.14.3"
+    "mcversion": "1.14.3",
+    "patch": "F2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.14.4_HD_U_F2.jar",
-    "mcversion": "1.14.4"
+    "mcversion": "1.14.4",
+    "patch": "F2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.14.4_HD_U_F3.jar",
-    "mcversion": "1.14.4"
+    "mcversion": "1.14.4",
+    "patch": "F3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.14.4_HD_U_F4.jar",
-    "mcversion": "1.14.4"
+    "mcversion": "1.14.4",
+    "patch": "F4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_F4.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "F4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B7.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B6.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B5.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B3.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B2.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_B1.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "B1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_E7.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_E3.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D8.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D7.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D6.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D4.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D3.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D2.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_D1.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "D1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_C3.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "C3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_C2.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "C2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_C1.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "C1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_E7.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_E3.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_D8.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "D8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_D7.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "D7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_C1.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "C1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_B7.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "B7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_B6.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "B6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_E7.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_E3.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_D8.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "D8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_D7.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "D7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_B6.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "B6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_B5.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "B5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_B4.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "B4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.2_HD_U_E3.jar",
-    "mcversion": "1.9.2"
+    "mcversion": "1.9.2",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.2_HD_U_D8.jar",
-    "mcversion": "1.9.2"
+    "mcversion": "1.9.2",
+    "patch": "D8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.2_HD_U_D7.jar",
-    "mcversion": "1.9.2"
+    "mcversion": "1.9.2",
+    "patch": "D7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.2_HD_U_B3.jar",
-    "mcversion": "1.9.2"
+    "mcversion": "1.9.2",
+    "patch": "B3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.2_HD_U_B2.jar",
-    "mcversion": "1.9.2"
+    "mcversion": "1.9.2",
+    "patch": "B2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.2_HD_U_B1.jar",
-    "mcversion": "1.9.2"
+    "mcversion": "1.9.2",
+    "patch": "B1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_E7.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_E3.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_D8.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "D8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_D7.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "D7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_B5.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "B5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_B3.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "B3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_B2.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "B2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_B1.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "B1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_I7.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "I7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_I3.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "I3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_H8.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "H8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_H7.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "H7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_H6.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "H6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_H5.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.8_HD_U_I7.jar",
-    "mcversion": "1.8.8"
+    "mcversion": "1.8.8",
+    "patch": "I7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.8_HD_U_I3.jar",
-    "mcversion": "1.8.8"
+    "mcversion": "1.8.8",
+    "patch": "I3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.8_HD_U_H8.jar",
-    "mcversion": "1.8.8"
+    "mcversion": "1.8.8",
+    "patch": "H8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.8_HD_U_H7.jar",
-    "mcversion": "1.8.8"
+    "mcversion": "1.8.8",
+    "patch": "H7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.8_HD_U_H6.jar",
-    "mcversion": "1.8.8"
+    "mcversion": "1.8.8",
+    "patch": "H6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.8_HD_U_H5.jar",
-    "mcversion": "1.8.8"
+    "mcversion": "1.8.8",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.0_HD_U_I7.jar",
-    "mcversion": "1.8.0"
+    "mcversion": "1.8.0",
+    "patch": "I7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.0_HD_U_I3.jar",
-    "mcversion": "1.8.0"
+    "mcversion": "1.8.0",
+    "patch": "I3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.0_HD_U_H8.jar",
-    "mcversion": "1.8.0"
+    "mcversion": "1.8.0",
+    "patch": "H8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.0_HD_U_H7.jar",
-    "mcversion": "1.8.0"
+    "mcversion": "1.8.0",
+    "patch": "H7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.0_HD_U_H6.jar",
-    "mcversion": "1.8.0"
+    "mcversion": "1.8.0",
+    "patch": "H6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.0_HD_U_H5.jar",
-    "mcversion": "1.8.0"
+    "mcversion": "1.8.0",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_E7.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_E3.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_D8.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "D8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_D7.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "D7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_D6.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "D6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_D4.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "D4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.10_HD_U_D3.jar",
-    "mcversion": "1.7.10"
+    "mcversion": "1.7.10",
+    "patch": "D3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.2_HD_U_F7.jar",
-    "mcversion": "1.7.2"
+    "mcversion": "1.7.2",
+    "patch": "F7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.2_HD_U_F3.jar",
-    "mcversion": "1.7.2"
+    "mcversion": "1.7.2",
+    "patch": "F3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.2_HD_U_E8.jar",
-    "mcversion": "1.7.2"
+    "mcversion": "1.7.2",
+    "patch": "E8",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.2_HD_U_E7.jar",
-    "mcversion": "1.7.2"
+    "mcversion": "1.7.2",
+    "patch": "E7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.2_HD_U_E4.jar",
-    "mcversion": "1.7.2"
+    "mcversion": "1.7.2",
+    "patch": "E4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.7.2_HD_U_E3.jar",
-    "mcversion": "1.7.2"
+    "mcversion": "1.7.2",
+    "patch": "E3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.14.4_HD_U_F5.jar",
-    "mcversion": "1.14.4"
+    "mcversion": "1.14.4",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.2_HD_U_F5.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_F5.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.1_HD_U_F5.jar",
-    "mcversion": "1.12.1"
+    "mcversion": "1.12.1",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_F5.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_F5.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_F5.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "F5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_H5.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_H5.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_H5.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_H5.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_L5.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "L5",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.12.2_HD_U_F6_pre1.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "pre1",
+    "type": "HD_U_F6"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre1.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre1",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre2.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre2",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre3.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre3",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre5.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre5",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre4.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre4",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre7.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre7",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre9.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre9",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre10.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre10",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre12.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre12",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre13.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre13",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre18.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre18",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre19.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre19",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre20.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre20",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre21.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre21",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre22.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre22",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre23.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre23",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre24.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre24",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre26.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre26",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre27.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre27",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre28.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre28",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre29.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre29",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G1_pre30.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre30",
+    "type": "HD_U_G1"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre1.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre1",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre2.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre2",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre3.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre3",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre4.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre4",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre5.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre5",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre7.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre7",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre6.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre6",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre9.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre9",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre8.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre8",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre10.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre10",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre09.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre09",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre08.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre08",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre07.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre07",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre06.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre06",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre05.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre05",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre11.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre11",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre13.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre13",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre12.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre12",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre14.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre14",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre16.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre16",
+    "type": "HD_U_G2"
   },
   {
     "filename": "preview_OptiFine_1.16.1_HD_U_G2_pre15.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "pre15",
+    "type": "HD_U_G2"
   },
   {
     "filename": "OptiFine_1.16.1_HD_U_G2.jar",
-    "mcversion": "1.16.1"
+    "mcversion": "1.16.1",
+    "patch": "G2",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre1.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre1",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre2.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre2",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre3.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre3",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre4.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre4",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre5.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre5",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre6.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre6",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.16.2_HD_U_G3_pre7.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "pre7",
+    "type": "HD_U_G3"
   },
   {
     "filename": "OptiFine_1.16.2_HD_U_G3.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "G3",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.3_HD_U_G3_pre2.jar",
-    "mcversion": "1.16.3"
+    "mcversion": "1.16.3",
+    "patch": "pre2",
+    "type": "HD_U_G3"
   },
   {
     "filename": "preview_OptiFine_1.8.9_HD_U_L6_pre1.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "pre1",
+    "type": "HD_U_L6"
   },
   {
     "filename": "OptiFine_1.16.3_HD_U_G3.jar",
-    "mcversion": "1.16.3"
+    "mcversion": "1.16.3",
+    "patch": "G3",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.3_HD_U_G4_pre1.jar",
-    "mcversion": "1.16.3"
+    "mcversion": "1.16.3",
+    "patch": "pre1",
+    "type": "HD_U_G4"
   },
   {
     "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre8.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "pre8",
+    "type": "HD_U_G6"
   },
   {
     "filename": "OptiFine_1.16.4_HD_U_G5.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.16.3_HD_U_G5.jar",
-    "mcversion": "1.16.3"
+    "mcversion": "1.16.3",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.16.3_HD_U_G4.jar",
-    "mcversion": "1.16.3"
+    "mcversion": "1.16.3",
+    "patch": "G4",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.16.2_HD_U_G5.jar",
-    "mcversion": "1.16.2"
+    "mcversion": "1.16.2",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.15.2_HD_U_G6_pre5.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "pre5",
+    "type": "HD_U_G6"
   },
   {
     "filename": "preview_OptiFine_1.14.4_HD_U_G5_pre1.jar",
-    "mcversion": "1.14.4"
+    "mcversion": "1.14.4",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.13.2_HD_U_G5_pre1.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.12.2_HD_U_G5_pre1.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.12.1_HD_U_G5_pre1.jar",
-    "mcversion": "1.12.1"
+    "mcversion": "1.12.1",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.12_HD_U_G5_pre1.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.11.2_HD_U_G5_pre1.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.11_HD_U_G5_pre1.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "pre1",
+    "type": "HD_U_G5"
   },
   {
     "filename": "preview_OptiFine_1.10.2_HD_U_I5_pre1.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "pre1",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.10_HD_U_I5_pre1.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "pre1",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.9.4_HD_U_I5_pre1.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "pre1",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.9.0_HD_U_I5_pre1.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "pre1",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.8.9_HD_U_M5_pre2.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "pre2",
+    "type": "HD_U_M5"
   },
   {
     "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre9.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "pre9",
+    "type": "HD_U_G6"
   },
   {
     "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre10.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "pre10",
+    "type": "HD_U_G6"
   },
   {
     "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre11.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "pre11",
+    "type": "HD_U_G6"
   },
   {
     "filename": "preview_OptiFine_1.16.4_HD_U_G6_pre12.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "pre12",
+    "type": "HD_U_G6"
   },
   {
     "filename": "OptiFine_1.16.5_HD_U_G6.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "G6",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.4_HD_U_G7_pre1.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "pre1",
+    "type": "HD_U_G7"
   },
   {
     "filename": "OptiFine_1.16.4_HD_U_G6.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "G6",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre2.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre2",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre4.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre4",
+    "type": "HD_U_G7"
   },
   {
     "filename": "OptiFine_1.14.4_HD_U_G5.jar",
-    "mcversion": "1.14.4"
+    "mcversion": "1.14.4",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.14.2_HD_U_F1.jar",
-    "mcversion": "1.14.2"
+    "mcversion": "1.14.2",
+    "patch": "F1",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.13.2_HD_U_G5.jar",
-    "mcversion": "1.13.2"
+    "mcversion": "1.13.2",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.2_HD_U_G5.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.15.2_HD_U_G6.jar",
-    "mcversion": "1.15.2"
+    "mcversion": "1.15.2",
+    "patch": "G6",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12.1_HD_U_G5.jar",
-    "mcversion": "1.12.1"
+    "mcversion": "1.12.1",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.12_HD_U_G5.jar",
-    "mcversion": "1.12"
+    "mcversion": "1.12",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11.2_HD_U_G5.jar",
-    "mcversion": "1.11.2"
+    "mcversion": "1.11.2",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.11_HD_U_G5.jar",
-    "mcversion": "1.11"
+    "mcversion": "1.11",
+    "patch": "G5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10.2_HD_U_I5.jar",
-    "mcversion": "1.10.2"
+    "mcversion": "1.10.2",
+    "patch": "I5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.10_HD_U_I5.jar",
-    "mcversion": "1.10"
+    "mcversion": "1.10",
+    "patch": "I5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.4_HD_U_I5.jar",
-    "mcversion": "1.9.4"
+    "mcversion": "1.9.4",
+    "patch": "I5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.9.0_HD_U_I5.jar",
-    "mcversion": "1.9.0"
+    "mcversion": "1.9.0",
+    "patch": "I5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.8.9_HD_U_M5.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "M5",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre5.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre5",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre6.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre6",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre7.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre7",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre8.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre8",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre9.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre9",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre10.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre10",
+    "type": "HD_U_G7"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G7_pre11.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre11",
+    "type": "HD_U_G7"
   },
   {
     "filename": "OptiFine_1.16.5_HD_U_G7.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "G7",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.16.4_HD_U_G7.jar",
-    "mcversion": "1.16.4"
+    "mcversion": "1.16.4",
+    "patch": "G7",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre1.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre1",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre2.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre2",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre3.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre3",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre4.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre4",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre5.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre5",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre6.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre6",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre7.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre7",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre8.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre8",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre9.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre9",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
-    "mcversion": "1.12.2"
+    "mcversion": "1.12.2",
+    "patch": "pre1",
+    "type": "HD_U_G6"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre10.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre10",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre11",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.8.9_HD_U_M6_pre1.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "pre1",
+    "type": "HD_U_M6"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre12.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre12",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre2.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre2",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre1.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre1",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre3.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre3",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre5.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre5",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre4.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre4",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre13.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre13",
+    "type": "HD_U_G8"
   },
   {
     "filename": "preview_OptiFine_1.16.5_HD_U_G8_pre14.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "pre14",
+    "type": "HD_U_G8"
   },
   {
     "filename": "OptiFine_1.16.5_HD_U_G8.jar",
-    "mcversion": "1.16.5"
+    "mcversion": "1.16.5",
+    "patch": "G8",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre6.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre6",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre7.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre7",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre8.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre8",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre9.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre9",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre10.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre10",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre11.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre11",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_21w08b_HD_U_G9_pre12.jar",
-    "mcversion": "21w08b"
+    "mcversion": "21w08b",
+    "patch": "pre12",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre16.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre16",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre18.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre18",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre17.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre17",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre20.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre20",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre19.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre19",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre21.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre21",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre22.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre22",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre23.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre23",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre24.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre24",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre25.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre25",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre26.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre26",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
-    "mcversion": "1.17"
+    "mcversion": "1.17",
+    "patch": "pre26",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre27.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre27",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre28.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre28",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre29.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre29",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre30.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre30",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre31.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre31",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre32.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre32",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre33.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre33",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre34.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre34",
+    "type": "HD_U_G9"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_G9_pre35.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre35",
+    "type": "HD_U_G9"
   },
   {
     "filename": "OptiFine_1.17.1_HD_U_G9.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "G9",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre1.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre1",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre2.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre2",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre3.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre3",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre4.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre4",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre5.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre5",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre6.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre6",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre7.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre7",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre8.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre8",
+    "type": "HD_U_H1"
   },
   {
     "filename": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
-    "mcversion": "1.8.9"
+    "mcversion": "1.8.9",
+    "patch": "pre2",
+    "type": "HD_U_M6"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H1_pre9.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre9",
+    "type": "HD_U_H1"
   },
   {
     "filename": "OptiFine_1.17.1_HD_U_H1.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "H1",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
-    "mcversion": "1.17.1"
+    "mcversion": "1.17.1",
+    "patch": "pre1",
+    "type": "HD_U_H2"
   },
   {
     "filename": "preview_OptiFine_1.18_HD_U_H3_pre7.jar",
-    "mcversion": "1.18"
+    "mcversion": "1.18",
+    "patch": "pre7",
+    "type": "HD_U_H3"
   },
   {
     "filename": "OptiFine_1.18_HD_U_H3.jar",
-    "mcversion": "1.18"
+    "mcversion": "1.18",
+    "patch": "H3",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H4_pre1.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre1",
+    "type": "HD_U_H4"
   },
   {
     "filename": "OptiFine_1.18.1_HD_U_H4.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "H4",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre2.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre2",
+    "type": "HD_U_H5"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre1.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre1",
+    "type": "HD_U_H5"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre3.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre3",
+    "type": "HD_U_H5"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre4.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre4",
+    "type": "HD_U_H5"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre5.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre5",
+    "type": "HD_U_H5"
   },
   {
     "filename": "preview_OptiFine_1.18.1_HD_U_H5_pre6.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "pre6",
+    "type": "HD_U_H5"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H6_pre1.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre1",
+    "type": "HD_U_H6"
   },
   {
     "filename": "OptiFine_1.18.1_HD_U_H5.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "H5",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.18.2_HD_U_H6.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "H6",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H7_pre1.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre1",
+    "type": "HD_U_H7"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H7_pre2.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre2",
+    "type": "HD_U_H7"
   },
   {
     "filename": "OptiFine_1.18.1_HD_U_H6.jar",
-    "mcversion": "1.18.1"
+    "mcversion": "1.18.1",
+    "patch": "H6",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H7_pre3.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre3",
+    "type": "HD_U_H7"
   },
   {
     "filename": "OptiFine_1.18.2_HD_U_H7.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "H7",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre1.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre1",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre2.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre2",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre3.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre3",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre5.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre5",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre4.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre4",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre7.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre7",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre6.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre6",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre8.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre8",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H8_pre10.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre10",
+    "type": "HD_U_H8"
   },
   {
     "filename": "OptiFine_1.19_HD_U_H8.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "H8",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H9_pre1.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre1",
+    "type": "HD_U_H9"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H9_pre2.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre2",
+    "type": "HD_U_H9"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H9_pre4.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre4",
+    "type": "HD_U_H9"
   },
   {
     "filename": "preview_OptiFine_1.19_HD_U_H9_pre3.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "pre3",
+    "type": "HD_U_H9"
   },
   {
     "filename": "OptiFine_1.19_HD_U_H9.jar",
-    "mcversion": "1.19"
+    "mcversion": "1.19",
+    "patch": "H9",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.19.1_HD_U_H9_pre1.jar",
-    "mcversion": "1.19.1"
+    "mcversion": "1.19.1",
+    "patch": "pre1",
+    "type": "HD_U_H9"
   },
   {
     "filename": "OptiFine_1.19.2_HD_U_H9.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "H9",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.19.1_HD_U_H9.jar",
-    "mcversion": "1.19.1"
+    "mcversion": "1.19.1",
+    "patch": "H9",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H9_pre1.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre1",
+    "type": "HD_U_H9"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H8_pre1.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre1",
+    "type": "HD_U_H8"
   },
   {
     "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre1.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "pre1",
+    "type": "HD_U_I1"
   },
   {
     "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre2.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "pre2",
+    "type": "HD_U_I1"
   },
   {
     "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre4.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "pre4",
+    "type": "HD_U_I1"
   },
   {
     "filename": "preview_OptiFine_1.19.2_HD_U_I1_pre3.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "pre3",
+    "type": "HD_U_I1"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H9_pre2.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre2",
+    "type": "HD_U_H9"
   },
   {
     "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre2.jar",
-    "mcversion": "1.19.3"
+    "mcversion": "1.19.3",
+    "patch": "pre2",
+    "type": "HD_U_I2"
   },
   {
     "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre1.jar",
-    "mcversion": "1.19.3"
+    "mcversion": "1.19.3",
+    "patch": "pre1",
+    "type": "HD_U_I2"
   },
   {
     "filename": "OptiFine_1.19.2_HD_U_I1.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "I1",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre3.jar",
-    "mcversion": "1.19.3"
+    "mcversion": "1.19.3",
+    "patch": "pre3",
+    "type": "HD_U_I2"
   },
   {
     "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre5.jar",
-    "mcversion": "1.19.3"
+    "mcversion": "1.19.3",
+    "patch": "pre5",
+    "type": "HD_U_I2"
   },
   {
     "filename": "preview_OptiFine_1.19.3_HD_U_I2_pre4.jar",
-    "mcversion": "1.19.3"
+    "mcversion": "1.19.3",
+    "patch": "pre4",
+    "type": "HD_U_I2"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre4.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre4",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre3.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre3",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre6.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre6",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre5.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre5",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre8.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre8",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre7.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre7",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I3_pre9.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre9",
+    "type": "HD_U_I3"
   },
   {
     "filename": "preview_OptiFine_1.19.4_HD_U_I4_pre1.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "pre1",
+    "type": "HD_U_I4"
   },
   {
     "filename": "OptiFine_1.19.4_HD_U_I3.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "I3",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.19.3_HD_U_I3.jar",
-    "mcversion": "1.19.3"
+    "mcversion": "1.19.3",
+    "patch": "I3",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.18.2_HD_U_H9_pre3.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "pre3",
+    "type": "HD_U_H9"
   },
   {
     "filename": "OptiFine_1.19.4_HD_U_I4.jar",
-    "mcversion": "1.19.4"
+    "mcversion": "1.19.4",
+    "patch": "I4",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.20-pre4_HD_U_I5_pre1.jar",
-    "mcversion": "1.20-pre4"
+    "mcversion": "1.20-pre4",
+    "patch": "pre1",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20_HD_U_I5_pre3.jar",
-    "mcversion": "1.20"
+    "mcversion": "1.20",
+    "patch": "pre3",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre4.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre4",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20_HD_U_I5_pre4.jar",
-    "mcversion": "1.20"
+    "mcversion": "1.20",
+    "patch": "pre4",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre5.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre5",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20_HD_U_I5_pre5.jar",
-    "mcversion": "1.20"
+    "mcversion": "1.20",
+    "patch": "pre5",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre6.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre6",
+    "type": "HD_U_I5"
   },
   {
     "filename": "OptiFine_1.19.2_HD_U_I2.jar",
-    "mcversion": "1.19.2"
+    "mcversion": "1.19.2",
+    "patch": "I2",
+    "type": "HD_U"
   },
   {
     "filename": "OptiFine_1.18.2_HD_U_H9.jar",
-    "mcversion": "1.18.2"
+    "mcversion": "1.18.2",
+    "patch": "H9",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre7.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre7",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre8.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre8",
+    "type": "HD_U_I5"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I5_pre9.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre9",
+    "type": "HD_U_I5"
   },
   {
     "filename": "OptiFine_1.20.1_HD_U_I5.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "I5",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre1.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre1",
+    "type": "HD_U_I6"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre3.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre3",
+    "type": "HD_U_I6"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre2.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre2",
+    "type": "HD_U_I6"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre6.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre6",
+    "type": "HD_U_I6"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre5.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre5",
+    "type": "HD_U_I6"
   },
   {
     "filename": "preview_OptiFine_1.20.1_HD_U_I6_pre4.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "pre4",
+    "type": "HD_U_I6"
   },
   {
     "filename": "preview_OptiFine_1.20.2_HD_U_I7_pre1.jar",
-    "mcversion": "1.20.2"
+    "mcversion": "1.20.2",
+    "patch": "pre1",
+    "type": "HD_U_I7"
   },
   {
     "filename": "OptiFine_1.20.1_HD_U_I6.jar",
-    "mcversion": "1.20.1"
+    "mcversion": "1.20.1",
+    "patch": "I6",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre2.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre2",
+    "type": "HD_U_I7"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre3.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre3",
+    "type": "HD_U_I7"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre4.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre4",
+    "type": "HD_U_I7"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre5.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre5",
+    "type": "HD_U_I7"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre6.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre6",
+    "type": "HD_U_I7"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I7_pre7.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre7",
+    "type": "HD_U_I7"
   },
   {
     "filename": "OptiFine_1.20.4_HD_U_I7.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "I7",
+    "type": "HD_U"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I8_pre1.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre1",
+    "type": "HD_U_I8"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I8_pre2.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre2",
+    "type": "HD_U_I8"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I8_pre3.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre3",
+    "type": "HD_U_I8"
   },
   {
     "filename": "preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
-    "mcversion": "1.20.4"
+    "mcversion": "1.20.4",
+    "patch": "pre4",
+    "type": "HD_U_I8"
   },
   {
     "filename": "preview_OptiFine_1.20.6_HD_U_I9_pre1.jar",
-    "mcversion": "1.20.6"
+    "mcversion": "1.20.6",
+    "patch": "pre1",
+    "type": "HD_U_I9"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "filename": "preview_OptiFine_1.20.6_HD_U_I9_pre1.jar",
+    "mcversion": "1.20.6",
+    "patch": "I9_pre1",
+    "type": "HD_U"
+  },
+  {
     "filename": "OptiFine_1.20.4_HD_U_I7.jar",
     "mcversion": "1.20.4",
     "patch": "I7",
